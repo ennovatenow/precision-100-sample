@@ -1,2 +1,0 @@
-10,drop_table.sql,sql
-20,create_table.sql,sql
